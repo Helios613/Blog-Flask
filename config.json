@@ -1,0 +1,15 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/blogdb",
+        "prod_uri": "mysql://root:@localhost/blogdb",
+        "gmail-user": "addyourgmailaccount",
+        "gmail-password": "addgmailpassword",
+        "no_of_posts": 2,
+        "blog_name": "Blog Net",
+        "login_image": "login.png",
+        "admin_user":"admin",
+        "admin_password": "admin",
+        "upload_location": "C:\\Blog\\static\\assets\\img"
+    }
+}
